@@ -1290,3 +1290,123 @@ Stack Trace:
 #1 {main}
 
 
+2016-10-09 02:22:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Themes could not be found.
+Exception Attributes: array (
+  'class' => 'Themes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /themes/wordpress/2016/luna/wp-content/uploads/yootheme/work-01.jpg
+Referer URL: http://golive.dev.com/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\project\golive\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-10-09 02:22:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Themes could not be found.
+Exception Attributes: array (
+  'class' => 'Themes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /themes/wordpress/2016/luna/wp-content/uploads/yootheme/work-04.jpg
+Referer URL: http://golive.dev.com/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\project\golive\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-10-09 02:22:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Themes could not be found.
+Exception Attributes: array (
+  'class' => 'Themes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /themes/wordpress/2016/luna/wp-content/uploads/yootheme/work-03.jpg
+Referer URL: http://golive.dev.com/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\project\golive\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-10-09 02:22:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Themes could not be found.
+Exception Attributes: array (
+  'class' => 'Themes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /themes/wordpress/2016/luna/wp-content/uploads/yootheme/work-02.jpg
+Referer URL: http://golive.dev.com/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\project\golive\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-10-09 02:22:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Themes could not be found.
+Exception Attributes: array (
+  'class' => 'Themes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /themes/wordpress/2016/luna/wp-content/uploads/yootheme/work-02.jpg
+Referer URL: http://golive.dev.com/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\project\golive\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-10-09 02:22:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Themes could not be found.
+Exception Attributes: array (
+  'class' => 'Themes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /themes/wordpress/2016/luna/wp-content/uploads/yootheme/work-04.jpg
+Referer URL: http://golive.dev.com/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\project\golive\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-10-09 02:22:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Themes could not be found.
+Exception Attributes: array (
+  'class' => 'Themes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /themes/wordpress/2016/luna/wp-content/uploads/yootheme/work-03.jpg
+Referer URL: http://golive.dev.com/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\project\golive\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-10-09 02:22:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Themes could not be found.
+Exception Attributes: array (
+  'class' => 'Themes',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /themes/wordpress/2016/luna/wp-content/uploads/yootheme/work-01.jpg
+Referer URL: http://golive.dev.com/
+Client IP: 127.0.0.1
+Stack Trace:
+#0 C:\xampp\htdocs\project\golive\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

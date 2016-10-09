@@ -67,7 +67,7 @@ $cakeDescription = 'Goolive';
 
                 <div class="uk-text-center">
                     <a class="tm-logo uk-align-center" href="https://demo.yootheme.com/themes/wordpress/2016/luna?&amp;style=default">
-                        <svg width="120px" height="106px" viewBox="0 0 611 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <svg width="120px" height="106px" viewBox="0 0 611 106" version="1.1" xmlns="http://www.w3.org/2000/svg">
                             <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
                             <title>GOOLIVE</title>
                             <desc>Created with Sketch.</desc>
@@ -91,7 +91,7 @@ $cakeDescription = 'Goolive';
 
             <div class="uk-flex uk-flex-middle uk-flex-space-between uk-visible-small">
 
-                <a class="tm-logo-small uk-visible-small" href="https://demo.yootheme.com/themes/wordpress/2016/luna?&amp;style=default"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="logo-small" x="0px" y="0px" width="65" height="25" viewBox="0 0 65 25" enable-background="new 0 0 65 25" xml:space="preserve" class="uk-responsive-height">
+                <a class="tm-logo-small uk-visible-small" href="https://demo.yootheme.com/themes/wordpress/2016/luna?&amp;style=default"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="logo-small" x="0px" y="0px" width="65" height="25" viewBox="0 0 65 25" enable-background="new 0 0 65 25" xml:space="preserve" class="uk-responsive-height">
 <polygon fill-rule="evenodd" clip-rule="evenodd" points="1.294,3.887 1.294,20.94 9.462,20.94 9.462,19.219  3.52,19.219 3.52,3.887 "></polygon>
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M13.229,14.961V3.887h2.25v11.074c0,1.411,0.371,2.466,1.113,3.162  c0.742,0.698,1.765,1.046,3.069,1.046s2.332-0.348,3.082-1.046c0.75-0.696,1.125-1.751,1.125-3.162V3.887h2.226v11.074  c0,2.002-0.608,3.527-1.822,4.577c-1.215,1.051-2.756,1.575-4.623,1.575c-1.867,0-3.403-0.524-4.61-1.575  C13.831,18.488,13.229,16.963,13.229,14.961"></path>
                         <polygon fill-rule="evenodd" clip-rule="evenodd" points="42.355,3.887 44.581,3.887 44.581,20.94 42.355,20.94  33.404,7.406 33.404,20.94 31.179,20.94 31.179,3.887 33.404,3.887 42.355,17.422 "></polygon>
